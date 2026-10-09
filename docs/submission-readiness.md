@@ -1,5 +1,8 @@
 # OMEGA-X Submission Readiness — Final Gate
 
+> **UPDATED 2026-10-09 — SUBMISSION BLOCKED BY APPLICANT ELIGIBILITY UNTIL VERIFIED.** The official Alibaba Cloud AI Catalyst FAQ requires the applicant to be an unlisted company founded within 10 years and to have an accessible website. This repository identifies the applicant as a private individual with no qualifying legal entity or company website supplied. Do not file this as a qualifying-company application without genuine registration records or explicit written exception from Alibaba Cloud. See [the new English grant application](../APPLICATION/ai-catalyst-application-2026-10-09-en.md) and [882-character form answer](../APPLICATION/ai-catalyst-form-answers-2026-10-09-en.md). The September readiness labels below describe DOCUMENT READINESS ONLY and are superseded for actual submission.
+
+
 **Audit date:** 2026-09-05
 
 ## Status
@@ -10,7 +13,7 @@
 **Applicant identity section:** READY  
 **Public repository hygiene:** READY  
 **Technical evidence package:** E1 READY / E2 PENDING EXECUTION  
-**External application submission:** READY TO ENTER after final manual eligibility/account verification.
+**External application submission:** **BLOCKED** until incorporation/website eligibility or written exception and account details are verified.
 
 ## Verified applicant profile
 
